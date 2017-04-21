@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "236219960300",
+    "firebase_url": "https://goodbye-jeroen.firebaseio.com",
+    "project_id": "goodbye-jeroen",
+    "storage_bucket": "goodbye-jeroen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236219960300:android:11fff14b027eb861",
+        "android_client_info": {
+          "package_name": "nl.simyo.goodbyejeroenandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236219960300-98f4i0r43qn01lfahgcoq6ka2l7u8tf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgmtjYU81t8Kwat1eRQV9jX_IEl7XorY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
